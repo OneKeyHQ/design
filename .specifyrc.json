@@ -1,6 +1,5 @@
 {
   "repository": "@onekey/OneKey-Design",
-  "head": "specify",
   "rules": [
     {
       "name": "Design Tokens / Colors",
@@ -10,14 +9,9 @@
       },
       "parsers": [
         {
-          "name": "sort-by",
-          "options": {
-            "keys": ["name"]
-          }
-        },
-        {
           "name": "to-css-custom-properties"
         }
       ]
     }
   ]
+}
