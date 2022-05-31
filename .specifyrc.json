@@ -1,6 +1,6 @@
 {
   "repository": "@OneKey/OneKey-Design",
-  "head": "main",
+  "head": "specify",
   "rules": [
     {
       "name": "Design Tokens / Colors",
